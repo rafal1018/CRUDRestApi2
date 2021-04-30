@@ -3,7 +3,7 @@ package CRUDRestApi2.entity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "employee")
+@Table(name = "employees")
 public class Employee {
 
     private long id;
